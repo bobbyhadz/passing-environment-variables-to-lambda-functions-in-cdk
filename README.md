@@ -16,7 +16,7 @@ npm install
 3. Create the CDK stack
 
 ```bash
-npx cdk deploy
+npx aws-cdk deploy
 ```
 
 4. Open the AWS CloudFormation Console and the stack should be created in your
@@ -25,5 +25,5 @@ npx cdk deploy
 5. Cleanup
 
 ```bash
-npx cdk destroy
+npx aws-cdk destroy
 ```
