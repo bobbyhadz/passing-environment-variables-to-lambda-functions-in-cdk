@@ -15,7 +15,7 @@ export class CdkStarterStack extends cdk.Stack {
         availabilityZones: JSON.stringify(cdk.Stack.of(this).availabilityZones),
         myEnvVariable: 'some value',
       },
-      runtime: lambda.Runtime.NODEJS_14_X,
+      runtime: lambda.Runtime.NODEJS_16_X,
       memorySize: 1024,
       timeout: cdk.Duration.seconds(5),
       handler: 'main',
