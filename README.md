@@ -1,7 +1,7 @@
 # How to pass environment variables to Lambda in AWS CDK
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/environment-vars-lambda-cdk#passing-environment-variables-to-lambda-functions-in-cdk)
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-lambda-function-example)
 
 > If you use CDK v1, switch to the cdk-v1 branch
 
